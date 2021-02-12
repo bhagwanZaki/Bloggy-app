@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751311357726",
+    "firebase_url": "https://bloggy-8c806-default-rtdb.firebaseio.com",
+    "project_id": "bloggy-8c806",
+    "storage_bucket": "bloggy-8c806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751311357726:android:0a3a53e37daa09e3852b0f",
+        "android_client_info": {
+          "package_name": "com.example.prj_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751311357726-aaoqtue38etsc9d3t4pbdf24t4k3mgr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prj_1",
+            "certificate_hash": "a87181b6126a69dd44a00ffd00e6295a61752b6a"
+          }
+        },
+        {
+          "client_id": "751311357726-v78bf6ne284a77eh1hj69ugdp186790f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP25nm-RH2588a2hBJiC4CxdNNev5RWOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751311357726-v78bf6ne284a77eh1hj69ugdp186790f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
